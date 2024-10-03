@@ -1,0 +1,22 @@
+C:\Users\Lenovo\Desktop\Lecture2\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Lenovo\Desktop\Lecture2\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Lenovo\Desktop\Lecture2\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Lenovo\Desktop\Lecture2\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Lecture2\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Lecture2\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Lecture2\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Lecture2\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Lenovo\Desktop\Lecture2\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Lenovo\Desktop\Lecture2\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Lenovo\Desktop\Lecture2\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\My important files\3 курс\REST.API and ASP.NET Core\Labs\Lab1\Lecture2\Lecture2\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\My important files\3 курс\REST.API and ASP.NET Core\Labs\Lab1\Lecture2\Lecture2\Domain\bin\Debug\net8.0\Domain.dll
+C:\My important files\3 курс\REST.API and ASP.NET Core\Labs\Lab1\Lecture2\Lecture2\Domain\bin\Debug\net8.0\Domain.pdb
+C:\My important files\3 курс\REST.API and ASP.NET Core\Labs\Lab1\Lecture2\Lecture2\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\My important files\3 курс\REST.API and ASP.NET Core\Labs\Lab1\Lecture2\Lecture2\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\My important files\3 курс\REST.API and ASP.NET Core\Labs\Lab1\Lecture2\Lecture2\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\My important files\3 курс\REST.API and ASP.NET Core\Labs\Lab1\Lecture2\Lecture2\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\My important files\3 курс\REST.API and ASP.NET Core\Labs\Lab1\Lecture2\Lecture2\Domain\obj\Debug\net8.0\Domain.dll
+C:\My important files\3 курс\REST.API and ASP.NET Core\Labs\Lab1\Lecture2\Lecture2\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\My important files\3 курс\REST.API and ASP.NET Core\Labs\Lab1\Lecture2\Lecture2\Domain\obj\Debug\net8.0\Domain.pdb
+C:\My important files\3 курс\REST.API and ASP.NET Core\Labs\Lab1\Lecture2\Lecture2\Domain\obj\Debug\net8.0\ref\Domain.dll

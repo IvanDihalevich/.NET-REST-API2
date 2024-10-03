@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "M5l7H2+k2zk=",
+  "success": true,
+  "projectFilePath": "C:\\My important files\\3 курс\\REST.API and ASP.NET Core\\Labs\\Lab1\\Lecture2\\Lecture2\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kripa\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\Kripa\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.2\\fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
+    "C:\\Users\\Kripa\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Kripa\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Kripa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kripa\\.nuget\\packages\\optional\\4.0.0\\optional.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
